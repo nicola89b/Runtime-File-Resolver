@@ -1,0 +1,11 @@
+{
+  "name": "runtime-file-resolver",
+  "version-string": "1.3",
+  "description": "Runtime File Resolver",
+  "homepage": "https://www.nexusmods.com/skyrimspecialedition/mods/194279",
+  "license": "GPL-3.0-or-later",
+  "dependencies": [
+    "nlohmann-json"
+  ],
+  "builtin-baseline": "29ff5b8131d0c6c8fcb8fbaef35992f0d507cd7c"
+}
